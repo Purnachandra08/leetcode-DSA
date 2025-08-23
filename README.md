@@ -13,6 +13,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0015-3sum](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0004-median-of-two-sorted-arrays](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
