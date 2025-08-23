@@ -14,10 +14,12 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0033-search-in-rotated-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0036-valid-sudoku) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0036-valid-sudoku) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,4 +52,8 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0015-3sum) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
