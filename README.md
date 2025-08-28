@@ -19,6 +19,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0039-combination-sum](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | ------- |
 | [0011-container-with-most-water](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -57,6 +59,7 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 ## Matrix
 |  |
 | ------- |
