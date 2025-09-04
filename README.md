@@ -30,6 +30,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | ------- |
 | [0001-two-sum](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0041-first-missing-positive) |
@@ -59,6 +60,7 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -83,6 +85,7 @@ Solving leetcode programs using java for 365 days chhalenge
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0066-plus-one) |
 ## Tree
 |  |
