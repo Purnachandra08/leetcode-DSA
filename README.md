@@ -49,6 +49,7 @@ Solving leetcode programs using java for 365 days chhalenge
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0088-merge-sorted-array) |
@@ -60,6 +61,7 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0014-longest-common-prefix) |
 ## Trie
@@ -102,6 +104,7 @@ Solving leetcode programs using java for 365 days chhalenge
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
