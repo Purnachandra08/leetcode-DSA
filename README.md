@@ -20,6 +20,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0040-combination-sum-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0088-merge-sorted-array) |
@@ -38,6 +39,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0036-valid-sudoku](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0049-group-anagrams) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +77,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
@@ -85,6 +88,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | ------- |
 | [0015-3sum](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 ## Matrix
