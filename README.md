@@ -21,6 +21,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0041-first-missing-positive](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0088-merge-sorted-array) |
@@ -89,6 +90,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0015-3sum](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 ## Matrix
