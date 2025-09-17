@@ -29,6 +29,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0118-pascals-triangle](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0037-sudoku-solver](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +56,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0004-median-of-two-sorted-arrays](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +100,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0088-merge-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -156,4 +160,8 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0148-sort-list) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
