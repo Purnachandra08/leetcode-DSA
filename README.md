@@ -50,6 +50,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0033-search-in-rotated-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0012-integer-to-roman](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0069-sqrtx) |
 ## Tree
 |  |
 | ------- |
