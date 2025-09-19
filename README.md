@@ -23,6 +23,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0049-group-anagrams](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -51,6 +52,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,6 +109,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | ------- |
 | [0036-valid-sudoku](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 ## Backtracking
 |  |
 | ------- |
