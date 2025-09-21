@@ -55,6 +55,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0035-search-insert-position](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -134,6 +135,7 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -142,6 +144,7 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,5 +180,6 @@ Solving leetcode programs using java for 365 days chhalenge
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
