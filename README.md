@@ -34,6 +34,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0268-missing-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0169-majority-element](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +65,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0278-first-bad-version](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
@@ -83,6 +86,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0148-sort-list](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -119,6 +123,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0169-majority-element](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
 |  |
 | ------- |
