@@ -19,6 +19,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0039-combination-sum](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0056-merge-intervals) |
@@ -82,6 +83,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0011-container-with-most-water](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0148-sort-list) |
@@ -166,6 +168,7 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -177,6 +180,7 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0042-trapping-rain-water) |
 ## String Matching
 |  |
 | ------- |
@@ -205,4 +209,8 @@ Solving leetcode programs using java for 365 days chhalenge
 | ------- |
 | [0278-first-bad-version](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
