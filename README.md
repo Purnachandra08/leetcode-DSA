@@ -153,6 +153,7 @@ Solving leetcode programs using java for 365 days chhalenge
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
@@ -162,6 +163,7 @@ Solving leetcode programs using java for 365 days chhalenge
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Dynamic Programming
@@ -181,6 +183,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | ------- |
 | [0020-valid-parentheses](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -213,4 +216,8 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0042-trapping-rain-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
