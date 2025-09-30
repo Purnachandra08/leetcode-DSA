@@ -155,6 +155,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
@@ -165,6 +166,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Dynamic Programming
 |  |
@@ -184,6 +186,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0020-valid-parentheses](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -220,4 +223,5 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
