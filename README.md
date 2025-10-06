@@ -36,6 +36,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0287-find-the-duplicate-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0268-missing-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -198,6 +200,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0225-implement-stack-using-queues](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0496-next-greater-element-i) |
 ## String Matching
 |  |
 | ------- |
@@ -231,6 +234,7 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0496-next-greater-element-i) |
 ## Depth-First Search
 |  |
 | ------- |
