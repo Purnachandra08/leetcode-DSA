@@ -31,6 +31,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0118-pascals-triangle](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -97,6 +98,7 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## String
 |  |
 | ------- |
@@ -186,6 +188,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0118-pascals-triangle](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Sliding Window
 |  |
 | ------- |
