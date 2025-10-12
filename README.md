@@ -40,6 +40,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0455-assign-cookies](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0409-longest-palindrome](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0605-can-place-flowers) |
 ## String
 |  |
 | ------- |
