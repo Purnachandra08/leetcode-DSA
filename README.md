@@ -112,6 +112,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0455-assign-cookies](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0605-can-place-flowers) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Purnachandra08/leetcode-DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 ## String
 |  |
 | ------- |
@@ -130,6 +131,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0058-length-of-last-word](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0409-longest-palindrome) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Purnachandra08/leetcode-DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Trie
 |  |
 | ------- |
@@ -245,6 +247,7 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0169-majority-element) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Purnachandra08/leetcode-DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
