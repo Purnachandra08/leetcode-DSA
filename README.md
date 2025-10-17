@@ -42,6 +42,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0496-next-greater-element-i](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0605-can-place-flowers) |
+| [0979-di-string-match](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0979-di-string-match) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0349-intersection-of-two-arrays](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0979-di-string-match](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0979-di-string-match) |
 ## Greedy
 |  |
 | ------- |
@@ -112,6 +114,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0455-assign-cookies](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0605-can-place-flowers) |
+| [0979-di-string-match](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0979-di-string-match) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Purnachandra08/leetcode-DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 ## String
 |  |
@@ -131,6 +134,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0058-length-of-last-word](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0409-longest-palindrome) |
+| [0979-di-string-match](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0979-di-string-match) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Purnachandra08/leetcode-DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Trie
 |  |
