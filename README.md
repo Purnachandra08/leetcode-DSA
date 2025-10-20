@@ -43,6 +43,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0463-island-perimeter](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0605-can-place-flowers) |
 | [0979-di-string-match](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0979-di-string-match) |
 ## Hash Table
@@ -167,6 +168,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0048-rotate-image](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0566-reshape-the-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -309,4 +311,8 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0463-island-perimeter) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
