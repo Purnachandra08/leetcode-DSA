@@ -23,6 +23,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0047-permutations-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
@@ -168,6 +169,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0036-valid-sudoku](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0566-reshape-the-matrix) |
@@ -317,5 +319,6 @@ Solving leetcode programs using java for 365 days chhalenge
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
