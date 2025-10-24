@@ -26,6 +26,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0054-spiral-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0075-sort-colors) |
@@ -172,6 +173,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0048-rotate-image](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0566-reshape-the-matrix) |
@@ -224,6 +226,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0032-longest-valid-parentheses](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0044-wildcard-matching) |
+| [0064-minimum-path-sum](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
