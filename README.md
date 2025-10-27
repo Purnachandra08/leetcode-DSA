@@ -39,6 +39,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -178,6 +179,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0064-minimum-path-sum](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -295,6 +297,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0094-binary-tree-inorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0463-island-perimeter) |
 ## Design
 |  |
@@ -323,6 +326,7 @@ Solving leetcode programs using java for 365 days chhalenge
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0463-island-perimeter) |
 ## Simulation
 |  |
@@ -330,4 +334,8 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0054-spiral-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0566-reshape-the-matrix) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
