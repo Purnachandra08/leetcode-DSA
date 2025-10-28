@@ -191,6 +191,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0039-combination-sum](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0047-permutations-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 ## Math
 |  |
 | ------- |
@@ -205,6 +206,7 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -213,12 +215,14 @@ Solving leetcode programs using java for 365 days chhalenge
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -232,6 +236,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0042-trapping-rain-water](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0064-minimum-path-sum) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
