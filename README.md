@@ -200,6 +200,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0048-rotate-image](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0367-valid-perfect-square) |
 ## Tree
@@ -207,6 +208,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -216,6 +218,7 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
@@ -223,6 +226,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -237,6 +241,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0044-wildcard-matching](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
