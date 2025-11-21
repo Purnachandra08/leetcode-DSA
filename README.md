@@ -217,6 +217,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0104-maximum-depth-of-binary-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0173-binary-search-tree-iterator) |
@@ -244,6 +245,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0104-maximum-depth-of-binary-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0173-binary-search-tree-iterator) |
@@ -327,6 +329,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0101-symmetric-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0200-number-of-islands) |
@@ -362,6 +365,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0101-symmetric-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0463-island-perimeter) |
 ## Simulation
