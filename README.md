@@ -20,6 +20,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0040-combination-sum-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0049-group-anagrams) |
@@ -192,6 +193,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0037-sudoku-solver](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0047-permutations-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 ## Math
