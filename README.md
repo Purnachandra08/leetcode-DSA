@@ -24,6 +24,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0047-permutations-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0059-spiral-matrix-ii) |
@@ -195,6 +196,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0040-combination-sum-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0051-n-queens) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 ## Math
 |  |
