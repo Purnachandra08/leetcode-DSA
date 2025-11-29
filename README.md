@@ -198,6 +198,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0047-permutations-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0052-n-queens-ii) |
+| [0077-combinations](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0077-combinations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 ## Math
 |  |
