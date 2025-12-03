@@ -404,4 +404,8 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0164-maximum-gap) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
