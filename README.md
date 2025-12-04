@@ -408,4 +408,5 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
