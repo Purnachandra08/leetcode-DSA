@@ -70,6 +70,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0041-first-missing-positive](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -111,6 +112,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0075-sort-colors](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -309,6 +311,7 @@ Solving leetcode programs using java for 365 days chhalenge
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0234-palindrome-linked-list) |
