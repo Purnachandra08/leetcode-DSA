@@ -43,6 +43,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0179-largest-number) |
@@ -90,6 +91,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0074-search-a-2d-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0278-first-bad-version) |
