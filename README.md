@@ -58,6 +58,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0561-array-partition](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0704-binary-search) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0979-di-string-match](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0979-di-string-match) |
 ## Hash Table
@@ -100,6 +101,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0350-intersection-of-two-arrays-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
