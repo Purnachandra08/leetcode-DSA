@@ -62,6 +62,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0455-assign-cookies](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0605-can-place-flowers) |
@@ -89,6 +90,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0350-intersection-of-two-arrays-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -446,4 +448,5 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
