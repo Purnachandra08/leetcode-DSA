@@ -53,6 +53,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0189-rotate-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -441,4 +442,8 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0175-combine-two-tables](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0177-nth-highest-salary) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
