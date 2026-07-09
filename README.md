@@ -44,6 +44,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0134-gas-station) |
+| [0152-maximum-product-subarray](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0164-maximum-gap) |
@@ -314,6 +315,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0119-pascals-triangle-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 ## Sliding Window
 |  |
 | ------- |
