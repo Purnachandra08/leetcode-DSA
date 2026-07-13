@@ -88,6 +88,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0141-linked-list-cycle](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -185,6 +186,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0058-length-of-last-word](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0409-longest-palindrome) |
 | [0979-di-string-match](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0979-di-string-match) |
@@ -208,6 +210,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0169-majority-element](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
