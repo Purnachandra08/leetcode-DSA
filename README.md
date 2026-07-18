@@ -149,6 +149,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0349-intersection-of-two-arrays](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0979-di-string-match](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0979-di-string-match) |
 ## Greedy
 |  |
@@ -358,6 +359,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0148-sort-list](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
