@@ -252,6 +252,7 @@ Solving leetcode programs using java for 365 days chhalenge
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0048-rotate-image) |
@@ -355,6 +356,7 @@ Solving leetcode programs using java for 365 days chhalenge
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0141-linked-list-cycle) |
@@ -422,6 +424,7 @@ Solving leetcode programs using java for 365 days chhalenge
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0206-reverse-linked-list) |
