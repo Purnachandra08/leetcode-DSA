@@ -70,6 +70,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0566-reshape-the-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0979-di-string-match](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0979-di-string-match) |
 ## Hash Table
@@ -350,6 +351,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0234-palindrome-linked-list](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0739-daily-temperatures) |
 ## String Matching
 |  |
 | ------- |
@@ -392,6 +394,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0042-trapping-rain-water](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0739-daily-temperatures) |
 ## Depth-First Search
 |  |
 | ------- |
