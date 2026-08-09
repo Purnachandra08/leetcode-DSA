@@ -76,6 +76,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0875-koko-eating-bananas](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0979-di-string-match](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0979-di-string-match) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Purnachandra08/leetcode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0374-guess-number-higher-or-lower](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Purnachandra08/leetcode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
 |  |
 | ------- |
