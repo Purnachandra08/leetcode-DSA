@@ -37,6 +37,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0073-set-matrix-zeroes](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -255,6 +256,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0051-n-queens](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 ## Math
 |  |
@@ -389,6 +391,7 @@ Solving leetcode programs using java for 365 days chhalenge
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
