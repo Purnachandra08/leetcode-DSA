@@ -1,37 +1,65 @@
-import java.util.*;
-
 class Solution {
-    private static final String[] KEYS = {
-        "",    // 0
-        "",    // 1
-        "abc", // 2
-        "def", // 3
-        "ghi", // 4
-        "jkl", // 5
-        "mno", // 6
-        "pqrs",// 7
-        "tuv", // 8
-        "wxyz" // 9
-    };
 
     public List<String> letterCombinations(String digits) {
+
         List<String> result = new ArrayList<>();
-        if (digits == null || digits.length() == 0) return result;
-        backtrack(result, new StringBuilder(), digits, 0);
+
+        if (digits.length() == 0) {
+            return result;
+        }
+
+        String[] phone = {
+            "",     // 0
+            "",     // 1
+            "abc",  // 2
+            "def",  // 3
+            "ghi",  // 4
+            "jkl",  // 5
+            "mno",  // 6
+            "pqrs", // 7
+            "tuv",  // 8
+            "wxyz"  // 9
+        };
+
+        backtrack(digits, 0, new StringBuilder(), result, phone);
+
         return result;
     }
 
-    private void backtrack(List<String> result, StringBuilder current, String digits, int index) {
+    private void backtrack(String digits,
+                           int index,
+                           StringBuilder current,
+                           List<String> result,
+                           String[] phone) {
+
+        // All digits processed
         if (index == digits.length()) {
             result.add(current.toString());
             return;
         }
 
-        String letters = KEYS[digits.charAt(index) - '0'];
-        for (char c : letters.toCharArray()) {
-            current.append(c);
-            backtrack(result, current, digits, index + 1);
-            current.deleteCharAt(current.length() - 1); // backtrack
+        // Get letters for current digit
+        int digit = digits.charAt(index) - '0';
+
+        String letters = phone[digit];
+
+        // Try every letter
+        for (char letter : letters.toCharArray()) {
+
+            // Choose
+            current.append(letter);
+
+            // Explore next digit
+            backtrack(
+                digits,
+                index + 1,
+                current,
+                result,
+                phone
+            );
+
+            // Undo choice
+            current.deleteCharAt(current.length() - 1);
         }
     }
 }
