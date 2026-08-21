@@ -292,6 +292,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0145-binary-tree-postorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0543-diameter-of-binary-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -321,6 +322,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0145-binary-tree-postorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0543-diameter-of-binary-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -423,6 +425,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0145-binary-tree-postorder-traversal](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -495,4 +498,8 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
