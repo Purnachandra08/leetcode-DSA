@@ -517,4 +517,12 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
