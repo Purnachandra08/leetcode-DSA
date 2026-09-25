@@ -275,6 +275,7 @@ Solving leetcode programs using java for 365 days chhalenge
 | [0189-rotate-array](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0367-valid-perfect-square) |
+| [1492-the-kth-factor-of-n](https://github.com/Purnachandra08/leetcode-DSA/tree/master/1492-the-kth-factor-of-n) |
 ## Tree
 |  |
 | ------- |
@@ -525,4 +526,12 @@ Solving leetcode programs using java for 365 days chhalenge
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Purnachandra08/leetcode-DSA/tree/master/0075-sort-colors) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Purnachandra08/leetcode-DSA/tree/master/1492-the-kth-factor-of-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Purnachandra08/leetcode-DSA/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
